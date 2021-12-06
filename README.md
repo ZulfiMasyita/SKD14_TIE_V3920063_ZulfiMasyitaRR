@@ -1,6 +1,8 @@
 # SKD14_TIE_V3920063_ZulfiMasyitaRR
 
-menggunakan random generator untuk mengenerate public key dan private key-nya
+SKD pertemuan 14
+
+Menggunakan random generator untuk mengenerate public key dan private key-nya
 
 Public key menggunakan instance dari PKCS1_OAEP
 
